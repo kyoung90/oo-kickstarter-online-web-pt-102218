@@ -1,4 +1,4 @@
-class Backer 
+class Project
   attr_accessor :title
   
   def initialize(title)
